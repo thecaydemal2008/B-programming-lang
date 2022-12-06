@@ -1,0 +1,6 @@
+say Hello World!
+say This is the first program made in the B+ programming language.
+compare-equal 1 5
+compare-equal 2 2
+say-err somtin broke lol
+close
